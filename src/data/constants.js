@@ -152,7 +152,7 @@ export const experiences = [
     role: "Programming Instructor",
     company: "Personal Online Teacher",
     date: "Jan 2024 - Present",
-    desc: "Welcome to my portfolio as a Programming Instructor and Personal Online Teacher, Through one-on-one online sessions, I guide students in mastering Programming intricacies . Join me on this journey of digital enlightenment, where I combine my passion for coding with my commitment to fostering a new generation of skilled developers.  (Enroll now for just $65 and unlock the gateway to a rewarding career in web development).  Contact at : +923149922774 / hassan2112d@aptechgdn.net .",
+    desc: "Welcome to my portfolio as a Programming Instructor and Personal Online Teacher, Through one-on-one online sessions, I guide students in mastering Programming intricacies . Join me on this journey of digital enlightenment, where I combine my passion for coding with my commitment to fostering a new generation of skilled developers.  (Enroll now for just $30 and unlock the gateway to a rewarding career in web development).  Contact at : +923149922774 / hassan2112d@aptechgdn.net .",
     skills: [
       "PHP",
       "LARAVEL",
