@@ -211,7 +211,7 @@ export const experiences = [
   
   {
     id: 4,
-    img: "https://scontent.fkhi2-2.fna.fbcdn.net/v/t39.30808-6/302003764_509679384490548_8471908078951877025_n.png?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=iXJkVVi0_VkAX_juKvI&_nc_ht=scontent.fkhi2-2.fna&oh=00_AfDxgF9_BAqagpOtpcQGSMouM51tsqgA51srkv60NzGTuQ&oe=66115396",
+    img: "https://trafficbuilder.biz/wp-content/uploads/2020/04/Website-header-160x55-1.png",
     role: "Core PHP Developer",
     company: "TRAFFIC BUILDER.BIZ",
     date: "March 2023 - OCT 2023",
@@ -219,7 +219,7 @@ export const experiences = [
     skills: [
       "Core PHP",
       "Wordpress",
-      "Plugin",
+      "Plugin", 
       "Debugging",
       "MYSQL",
       
